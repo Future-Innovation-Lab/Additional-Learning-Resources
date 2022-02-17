@@ -38,6 +38,8 @@
 
 ### South African User Group Content
 
+[CPTMSDUG User Group Meetup](https://www.meetup.com/Cape-Town-Ms-Dev-User-Group/)
+
 [CPTMSDUG YouTube](https://www.youtube.com/channel/UCxGdivsVOI_Dgt2UnXTLzAg/videos)
 
 [Azure Bootcamp YouTube](https://www.youtube.com/channel/UC8oZfTufAU5i4Q-LGYlTQfQ)
